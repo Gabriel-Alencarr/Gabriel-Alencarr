@@ -2,22 +2,20 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
-
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+-
+- 🔭 &nbsp; Atualmente estou aprendendo Flutter no meu curso, mas estudo C# em casa.
+- 🎓 &nbsp; Estou Cursando Técnino em Informática para internet.
+- 💼 &nbsp; Full-Stack.
+- 🤔 &nbsp; Como centralizar uma div <???>.
+- 😄 &nbsp; Pronomes Ele/Dele.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
+- 💻 &nbsp; Python | Dart | Java | C#
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🛢 &nbsp; MySQL | Xampp
+- 🔧 &nbsp; Android Studio | Visual Studio | Visual Studio code
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
 <br>
 

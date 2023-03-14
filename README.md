@@ -1,12 +1,12 @@
 
 
-<h3> 👨🏻‍💻 Sobre Mim </h3>
--
-- 🔭 &nbsp; Atualmente estou aprendendo Flutter no meu curso, mas estudo C# em casa. <br>
-- 🎓 &nbsp; Estou Cursando Técnino em Informática para internet. <br>
-- 💼 &nbsp; Full-Stack. <br>
-- 🤔 &nbsp; Como centralizar uma div <???>. <br>
-- 😄 &nbsp; Pronomes Ele/Dele. <br>
+## Sobre Mim:
+
+🔭 &nbsp; Atualmente estou aprendendo Flutter no meu curso, mas estudo C# em casa. <br>
+🎓 &nbsp; Estou Cursando Técnino em Informática para internet. <br>
+💼 &nbsp; Full-Stack. <br>
+🤔 &nbsp; Como centralizar uma div <???>. <br>
+😄 &nbsp; Pronomes Ele/Dele. <br>
 
 <div>
 <a href="https://github.com/gabriel-alencarr">

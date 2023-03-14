@@ -1,13 +1,13 @@
 <h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 Sobre Mim </h3>
 -
-- 🔭 &nbsp; Atualmente estou aprendendo Flutter no meu curso, mas estudo C# em casa.
-- 🎓 &nbsp; Estou Cursando Técnino em Informática para internet.
-- 💼 &nbsp; Full-Stack.
-- 🤔 &nbsp; Como centralizar uma div <???>.
-- 😄 &nbsp; Pronomes Ele/Dele.
+- 🔭 &nbsp; Atualmente estou aprendendo Flutter no meu curso, mas estudo C# em casa. <br>
+- 🎓 &nbsp; Estou Cursando Técnino em Informática para internet. <br>
+- 💼 &nbsp; Full-Stack. <br>
+- 🤔 &nbsp; Como centralizar uma div <???>. <br>
+- 😄 &nbsp; Pronomes Ele/Dele. <br>
 
 <h3>🛠 Tech Stack</h3>
 

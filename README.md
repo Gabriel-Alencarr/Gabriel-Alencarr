@@ -2,8 +2,7 @@
 
 ## Sobre Mim:
 
-🔭 &nbsp; Atualmente estou aprendendo Flutter no meu curso, mas estudo C# em casa. <br>
-🎓 &nbsp; Estou Cursando Técnino em Informática para internet. <br>
+🔭 &nbsp; Atualmente estou fazendo ADS na FAM, mas estudo PHP em casa. <br>
 💼 &nbsp; Full-Stack. <br>
 🤔 &nbsp; Como centralizar uma div <???>. <br>
 😄 &nbsp; Pronomes Ele/Dele. <br>
